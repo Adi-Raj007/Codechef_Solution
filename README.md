@@ -7,3 +7,4 @@ In this repository there are various problem according to the difficulty level o
 5. Messi vs Ronaldo(316)
 6. Mana point(327)
 7. Rain_in_Chefland(328)
+8. Equal Distribution(330)
