@@ -8,3 +8,4 @@ In this repository there are various problem according to the difficulty level o
 6. Mana point(327)
 7. Rain_in_Chefland(328)
 8. Equal Distribution(330)
+9. Bidding(330)
