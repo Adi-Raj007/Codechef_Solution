@@ -11,3 +11,4 @@ In this repository there are various problem according to the difficulty level o
 9. Bidding(330)
 10. Overspeeding fine(335)
 11. Chess Time(337)
+12. Greater Average(500)
